@@ -8,3 +8,11 @@
 // In the console, use numPassengers to find the number of passengers
 // on the bus, and use (trainCapacity - numPassengers) to find the number
 // of seats remaining. Then enter occupancy.
+var trainCapacity = 40;
+undefined
+var numPassenger = 4;
+undefined
+ var occupancy = numPassenger + " passengers present. with " + (trainCapacity - numPassenger)+ " seats remaining."
+undefined
+occupancy
+"4 passengers present. with 36 seats remaining."

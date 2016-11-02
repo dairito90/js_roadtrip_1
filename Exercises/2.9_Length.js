@@ -6,3 +6,9 @@
 //
 //    "This variable is already assigned. Find its length without manually
 //     counting the characters and spaces."
+var sentence =   "This variable is already assigned. Find its length without manually counting the characters and spaces.";
+undefined
+sentence
+"This variable is already assigned. Find its length without manually counting the characters and spaces."
+sentence.length
+103

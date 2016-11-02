@@ -11,3 +11,7 @@
 // In the console, execute this concatenation in one line without
 // declaring any extra variables. You can use a method to find the
 // characters, or count very carefully. Then enter twenty20.
+var twenty20 = "Never look back."[0] + "Adventure is out there."[3] + "Just keep swimming."[14] + "To infinity... and beyond!"[1]
+undefined
+twenty20
+"Nemo"

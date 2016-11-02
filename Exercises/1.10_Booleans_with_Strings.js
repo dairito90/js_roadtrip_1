@@ -2,3 +2,4 @@
 
 // In the console, build a Boolean expression
 // that compares two Strings and evaluates to true.
+"red" === "red"

@@ -6,3 +6,4 @@
 // hard-code any numbers into your string. Then enter countMessage.
 //
 //    Attention: There are now 3 passengers on the train!
+var countMessage = "Attention: There are now "  + numPassenger +  " passengers on the train!"

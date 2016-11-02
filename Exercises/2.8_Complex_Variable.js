@@ -8,3 +8,7 @@
 //
 // Hint: use bracket notation on the string with something like this:
 // "example string"[index].
+var index14 ="what can we do? Keep going!"[14]
+undefined
+index14
+"?"

@@ -2,3 +2,4 @@
 
 // In the console, create a String with exactly 33 characters.
 // Then, access the length of your String with the .length property.
+"Save the world, repeat and create".length
